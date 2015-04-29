@@ -1,0 +1,7 @@
+.c9
+.git
+node_modules
+config.local.js
+.DS_Store
+npm-debug.log
+.bowerrc

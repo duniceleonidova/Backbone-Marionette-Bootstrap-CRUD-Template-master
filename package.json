@@ -1,0 +1,10 @@
+{
+  "name": "Backbone-Marionette-Bootstrap-CRUD-Template",
+  "version": "0.0.1",
+  "description": "CRUD template for Backbone and Marionette apps with a mix of Require JS and Bootstrap for the UI",
+  "dependencies": {
+    "bower": "latest"
+  },
+  "author": "Richard Ozols <richard@formyoula.com>",
+  "license": "Apache 2.0"
+}

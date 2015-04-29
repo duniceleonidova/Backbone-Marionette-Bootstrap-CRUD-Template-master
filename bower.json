@@ -1,0 +1,27 @@
+{
+  "name": "Backbone-Marionette-Bootstrap-CRUD-Template",
+  "version": "0.0.1",
+  "description": "CRUD template for Backbone and Marionette apps with a mix of Require JS and Bootstrap for the UI",
+  "main": "app/css/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": "2.1.3",
+    "jquery.ui": ">=1.8",
+    "jquery-touchswipe": "1.6.8",
+    "underscore": "1.8.3",
+    "backbone": "1.1.2",
+    "backbone.relational": "0.9.0",
+    "backbone.offline": "git@github.com:RichardOzols/backbone-offline.git#0.5.1",
+    "lawnchair": "git@github.com:brianleroux/lawnchair.git#0.6.4",
+    "marionette": "2.4.1",
+    "requirejs": "2.1.17",
+    "bootstrap": "3.3.4",
+    "moment": "2.10.2",
+    "text": "2.0.14",
+    "imgcache.js": "0.7.6",
+    "imagesloaded": "latest"
+  }
+}
